@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository"]
+	path = SubmoduleRepository
+	url = git@github.com:voki-bielkina-v1/SubmoduleRepository.git
